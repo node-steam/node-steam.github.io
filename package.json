@@ -16,7 +16,9 @@
     "node": ">=6.0.0"
   },
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+      "compile": "gulp"
+  },
   "babel": {
     "presets": [
       "es2015",
