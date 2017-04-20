@@ -1,0 +1,36 @@
+{
+    "projects": [
+        {
+            "id": "web-api",
+            "github": "web-api",
+            "npm": "web-api",
+            "documentation": "web-api",
+            "name": "Web-API",
+            "description": "Wrapper for the official Steam Web API."
+        },
+        {
+            "id": "market-pricing",
+            "github": "market-pricing",
+            "npm": "market-pricing",
+            "documentation": "market-pricing",
+            "name": "Market-Pricing",
+            "description": "Wrapper for the unofficial Steam Market Pricing API."
+        },
+        {
+            "id": "id",
+            "github": "id",
+            "npm": "id",
+            "documentation": "id",
+            "name": "SteamID",
+            "description": "Module to make SteamID usage and conversion easy."
+        },
+        {
+            "id": "vdf",
+            "github": "vdf",
+            "npm": "vdf",
+            "documentation": "vdf",
+            "name": "VDF",
+            "description": "Module to convert Valve's KeyValue format to JSON and back."
+        }
+    ]
+}

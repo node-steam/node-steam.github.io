@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="237">
+    <rect width="100%" height="100%" fill="#53B1B1"/>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".098">
+        <path d="M0-30L30-9.6V30L0 9.6V-30M30-9.6L60-30V9.6L30 30V-9.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".098">
+        <path d="M0 207.6L30 228v39.6L0 247.2v-39.6M30 228l30-20.4v39.6l-30 20.4V228"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".029">
+        <path d="M60-30L90-9.6V30L60 9.6V-30M90-9.6L120-30V9.6L90 30V-9.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".029">
+        <path d="M60 207.6L90 228v39.6l-30-20.4v-39.6M90 228l30-20.4v39.6l-30 20.4V228"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".141">
+        <path d="M120-30l30 20.4V30L120 9.6V-30M150-9.6L180-30V9.6L150 30V-9.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".141">
+        <path d="M120 207.6l30 20.4v39.6l-30-20.4v-39.6M150 228l30-20.4v39.6l-30 20.4V228"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".063">
+        <path d="M180-30l30 20.4V30L180 9.6V-30M210-9.6L240-30V9.6L210 30V-9.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".063">
+        <path d="M180 207.6l30 20.4v39.6l-30-20.4v-39.6M210 228l30-20.4v39.6l-30 20.4V228"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".089">
+        <path d="M240-30l30 20.4V30L240 9.6V-30M270-9.6L300-30V9.6L270 30V-9.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".089">
+        <path d="M240 207.6l30 20.4v39.6l-30-20.4v-39.6M270 228l30-20.4v39.6l-30 20.4V228"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".141">
+        <path d="M300-30l30 20.4V30L300 9.6V-30M330-9.6L360-30V9.6L330 30V-9.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".141">
+        <path d="M300 207.6l30 20.4v39.6l-30-20.4v-39.6M330 228l30-20.4v39.6l-30 20.4V228"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".063">
+        <path d="M0 9.6L30 30v39.6L0 49.2V9.6M30 30L60 9.6v39.6L30 69.6V30"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".081">
+        <path d="M60 9.6L90 30v39.6L60 49.2V9.6M90 30l30-20.4v39.6L90 69.6V30"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".141">
+        <path d="M120 9.6L150 30v39.6l-30-20.4V9.6M150 30l30-20.4v39.6l-30 20.4V30"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".055">
+        <path d="M180 9.6L210 30v39.6l-30-20.4V9.6M210 30l30-20.4v39.6l-30 20.4V30"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".029">
+        <path d="M240 9.6L270 30v39.6l-30-20.4V9.6M270 30l30-20.4v39.6l-30 20.4V30"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".133">
+        <path d="M300 9.6L330 30v39.6l-30-20.4V9.6M330 30l30-20.4v39.6l-30 20.4V30"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".141">
+        <path d="M0 49.2l30 20.4v39.6L0 88.8V49.2M30 69.6l30-20.4v39.6l-30 20.4V69.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".107">
+        <path d="M60 49.2l30 20.4v39.6L60 88.8V49.2M90 69.6l30-20.4v39.6l-30 20.4V69.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".089">
+        <path d="M120 49.2l30 20.4v39.6l-30-20.4V49.2M150 69.6l30-20.4v39.6l-30 20.4V69.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".02">
+        <path d="M180 49.2l30 20.4v39.6l-30-20.4V49.2M210 69.6l30-20.4v39.6l-30 20.4V69.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".037">
+        <path d="M240 49.2l30 20.4v39.6l-30-20.4V49.2M270 69.6l30-20.4v39.6l-30 20.4V69.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".15">
+        <path d="M300 49.2l30 20.4v39.6l-30-20.4V49.2M330 69.6l30-20.4v39.6l-30 20.4V69.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".072">
+        <path d="M0 88.8l30 20.4v39.6L0 128.4V88.8M30 109.2l30-20.4v39.6l-30 20.4v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".089">
+        <path d="M60 88.8l30 20.4v39.6l-30-20.4V88.8M90 109.2l30-20.4v39.6l-30 20.4v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".15">
+        <path d="M120 88.8l30 20.4v39.6l-30-20.4V88.8M150 109.2l30-20.4v39.6l-30 20.4v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".15">
+        <path d="M180 88.8l30 20.4v39.6l-30-20.4V88.8M210 109.2l30-20.4v39.6l-30 20.4v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".124">
+        <path d="M240 88.8l30 20.4v39.6l-30-20.4V88.8M270 109.2l30-20.4v39.6l-30 20.4v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".029">
+        <path d="M300 88.8l30 20.4v39.6l-30-20.4V88.8M330 109.2l30-20.4v39.6l-30 20.4v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".072">
+        <path d="M0 128.4l30 20.4v39.6L0 168v-39.6M30 148.8l30-20.4V168l-30 20.4v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".089">
+        <path d="M60 128.4l30 20.4v39.6L60 168v-39.6M90 148.8l30-20.4V168l-30 20.4v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".081">
+        <path d="M120 128.4l30 20.4v39.6L120 168v-39.6M150 148.8l30-20.4V168l-30 20.4v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".029">
+        <path d="M180 128.4l30 20.4v39.6L180 168v-39.6M210 148.8l30-20.4V168l-30 20.4v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".072">
+        <path d="M240 128.4l30 20.4v39.6L240 168v-39.6M270 148.8l30-20.4V168l-30 20.4v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".089">
+        <path d="M300 128.4l30 20.4v39.6L300 168v-39.6M330 148.8l30-20.4V168l-30 20.4v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".15">
+        <path d="M0 168l30 20.4V228L0 207.6V168M30 188.4L60 168v39.6L30 228v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".15">
+        <path d="M60 168l30 20.4V228l-30-20.4V168M90 188.4l30-20.4v39.6L90 228v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".02">
+        <path d="M120 168l30 20.4V228l-30-20.4V168M150 188.4l30-20.4v39.6L150 228v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".063">
+        <path d="M180 168l30 20.4V228l-30-20.4V168M210 188.4l30-20.4v39.6L210 228v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#222" fill-opacity=".133">
+        <path d="M240 168l30 20.4V228l-30-20.4V168M270 188.4l30-20.4v39.6L270 228v-39.6"/>
+    </g>
+    <g stroke="#000" stroke-opacity=".02" fill="#ddd" fill-opacity=".02">
+        <path d="M300 168l30 20.4V228l-30-20.4V168M330 188.4l30-20.4v39.6L330 228v-39.6"/>
+    </g>
+</svg>

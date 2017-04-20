@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>N|Steam</title>
+  <meta name="description" content="NodeJS Modules for interacting with Steam || Valve">
+  <meta name="author" content="lenovouser">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/5.1.0/css/primer.css" integrity="sha256-pQNeNe6ggx9qxFmOQtE8v/vBi0ex6LY4gfOKPNJXMzY=" crossorigin="anonymous" />
+  <link rel="stylesheet" href="/css/main.css" />
+</head>
+
+<body>
+    <section class="main">
+        <div class="container">
+            <div class="grid-header">
+                <h2>N|Steam</h2>
+                <p class="lead mb-3">NodeJS Modules for interacting with Steam || Valve.</p>
+            </div>
+            <ul class="grid gut-md">
+                <li v-for="x in projects" class="col-4 mb-4 grid-item-wrap">
+                    <div class="grid-item px-4 pt-5 pb-6">
+                        <div v-bind:class="'grid-item-header ' + x.id"></div>
+                        <a v-bind:href="'https://npmjs.org/@node-steam/' + x.npm" target="_blank">
+                            <h3 class="grid-item-title">
+                                {{ x.name }}
+                            </h3>
+                        </a>
+                        <p>{{ x.description }}</p>
+                        <div class="grid-item-meta text-small">
+                            <a class="grid-item-meta-details" v-bind:href="'https://github.com/node-steam/' + x.github" target="_blank">
+                                <svg aria-hidden="true" class="octicon octicon-repo" height="16" version="1.1" viewbox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+                                Repository
+                            </a>
+                            <a class="grid-item-meta-details" v-bind:href="'/' + x.documentation" target="_blank">
+                                <svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewbox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg>
+                                Documentation
+                            </a>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+</body>
+<script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.2.6/vue.min.js" integrity="sha256-cWZZjnj99rynB+b8FaNGUivxc1kJSRa8ZM/E77cDq0I=" crossorigin="anonymous"></script>
+<script src="/js/main.js"></script>
+
+</html>
